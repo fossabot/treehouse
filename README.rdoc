@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjeffstern%2Ftreehouse.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjeffstern%2Ftreehouse?ref=badge_shield)
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
@@ -259,3 +261,7 @@ vendor
   External libraries that the application depends on. Also includes the plugins
   subdirectory. If the app has frozen rails, those gems also go here, under
   vendor/rails/. This directory is in the load path.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjeffstern%2Ftreehouse.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjeffstern%2Ftreehouse?ref=badge_large)
